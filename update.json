@@ -1,5 +1,5 @@
 {
-  "machine": "LK001";
+  "machine": "LK001",
   "version": "1.0.2",
   "updateUrl": "https://github.com/lakshay1001786/TempleStreetApp/raw/refs/heads/main/TempleStreet.exe",
   "downgradeUrl": "https://github.com/lakshay1001786/test/raw/refs/heads/main/downgradeVersion.txt",
