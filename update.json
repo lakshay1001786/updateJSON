@@ -1,5 +1,7 @@
 {
+  "updateMode": "0",
   "version": "1.0.2",
-  "downloadUrl": "https://github.com/lakshay1001786/TempleStreetApp/raw/refs/heads/main/TempleStreet.exe",
+  "updateUrl": "https://github.com/lakshay1001786/TempleStreetApp/raw/refs/heads/main/TempleStreet.exe",
+  "downgradeUrl": "https://github.com/lakshay1001786/TempleStreetApp/raw/refs/heads/main/TempleStreet.exe",
   "releaseNotes": "Added new features and fixed critical bugs."
 }
