@@ -1,5 +1,5 @@
 {
-  "updateMode": "",
+  "updateMode": "true",
   "machine": "LK001",
   "version": "1.0.2",
   "updateUrl": "https://github.com/lakshay1001786/TempleStreetApp/raw/refs/heads/main/TempleStreet.exe",
